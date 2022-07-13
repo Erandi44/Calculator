@@ -3,7 +3,7 @@
 # This program function as a simple calculator. 
 # Functions available : +, -, *, /, remainder, power
 # Author: Erandika Karunaratne
-# Date : 
+# Date : 2022-02-03
 
 #-------------------------------------------------------------------------------------------------------------
 
